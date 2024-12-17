@@ -1,7 +1,7 @@
 
 body 
 {
-    background-image: url('Fon_1.png'); /* Путь к изображению */
+    background-image: url('Fon_7.png'); /* Путь к изображению */
     background-repeat: no-repeat; /* Не повторять изображение */
     background-size: cover; /* Масштабировать изображение, чтобы покрыть весь фон */
     background-position: center; /* Центрировать изображение */
@@ -22,7 +22,7 @@ a {
 
   /* Что делать при наведении на ссылку */
 a:hover {
-  color:#090807;
+  color:#e89645;
 }
 
   /* Этим свойством добавляем подчеркивание через создание псевдокласса */
@@ -37,11 +37,12 @@ a::after {
 }
 p {
   font-size: 1.5em;
+   color: #2b2135
 }
 
 h1 {
-  font-size: 3em;
-  color: #1b2632
+  font-size: 2.5em;
+  color: #150807
 }
 
 h2 {
